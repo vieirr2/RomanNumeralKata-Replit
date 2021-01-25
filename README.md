@@ -1,7 +1,7 @@
 
 # Roman Numeral Kata
 
-[![Run on Repl.it](https://repl.it/badge/github/nickdelgrosso/RomanNumeralKata-Replit)](https://repl.it/github/nickdelgrosso/RomanNumeralKata-Replit)
+[![Run on Repl.it](https://repl.it/badge/github/vieirr2/RomanNumeralKata-Replit)](https://repl.it/github/vieirr2/RomanNumeralKata-Replit)
 
 ## Goal: Convert Arabic Numerals to Roman Numerals
 
